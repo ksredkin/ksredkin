@@ -10,11 +10,11 @@
 
 ### 🛠️ Мой стек технологий
 
-**Backend & Языки:**
+**Backend & Языки:**\n /n <br>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 
-**Базы данных:**
+**Базы данных:**</n>
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
@@ -28,3 +28,4 @@
 
 ### 📫 Как со мной связаться
 - **GitHub:** [ksredkin](https://github.com/ksredkin)
+- **Telegram:** [@ksredkin](https://t.me/ksredkin)
