@@ -17,6 +17,7 @@
 **Базы данных:**<br>
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 **Инструменты & Другое:**<br>
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
@@ -32,4 +33,4 @@
 - **Gmail:** [ksredkin0968@gmail.com](mailto:ksredkin0968@gmail.com)
 
 ### 🌐 Моя активность
-- **Telegram-канал:** [Backend Journey](https://t.me/backendjourney) — здесь посты о моем пути в backend.
+- **Telegram-канал:** [Backend Journey](https://t.me/backendjourney) - здесь посты о моем пути в backend.
