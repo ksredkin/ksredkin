@@ -1,6 +1,6 @@
 # Привет, я Константин! 👋
 
-**Junior Backend Developer на Python** | Мне 14 лет, и я активно развиваюсь в разработке.
+**Python Backend Developer** | Building APIs & Telegram Bots
 
 ### 🧑‍💻 Обо мне
 - Увлекаюсь backend-разработкой и созданием API.
