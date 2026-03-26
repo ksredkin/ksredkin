@@ -36,7 +36,6 @@
 ### 📫 Как со мной связаться
 - **GitHub:** [ksredkin](https://github.com/ksredkin)
 - **Telegram:** [@ksredkin](https://t.me/ksredkin)
-- **Gmail:** [ksredkin0968@gmail.com](mailto:ksredkin0968@gmail.com)
 
 ### 🌐 Моя активность
 - **Telegram-канал:** [Backend Journey](https://t.me/backendjourney) - здесь посты о моем пути в backend.
