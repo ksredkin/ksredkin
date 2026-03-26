@@ -1,6 +1,7 @@
 # Привет, я Константин! 👋
 
-**Python Backend Developer** | Building APIs & Telegram Bots
+**Python Backend Developer**
+Building APIs & Telegram Bots
 
 ### 🧑‍💻 Обо мне
 - Увлекаюсь backend-разработкой и созданием API.
@@ -39,3 +40,7 @@
 
 ### 🌐 Моя активность
 - **Telegram-канал:** [Backend Journey](https://t.me/backendjourney) - здесь посты о моем пути в backend.
+
+## 🚀 Проекты
+- **Schedule Bot** - бот для школьного расписания с уведомлениями о заменах  
+- **Tasks API + Bot** - система управления задачами (FastAPI + Telegram Bot, Docker)
