@@ -34,7 +34,7 @@ Building APIs & Telegram Bots
 ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4CAF50?style=for-the-badge)
 ![Dotenv](https://img.shields.io/badge/.ENV-ECD53F?style=for-the-badge&logo=dotenv&logoColor=black)
 
-![Codewars](https://github.r2v.ch/codewars?user=ksredkin&stroke=%23BB432C)
+[![Codewars](https://codewars-stats-ignacio-cuadra.vercel.app/?username=ksredkin&theme=dark)](https://github.com/ignacio-cuadra/github-readme-codewars)
 
 ### 📫 Как со мной связаться
 - **GitHub:** [ksredkin](https://github.com/ksredkin)
