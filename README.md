@@ -44,7 +44,7 @@ Building APIs & Telegram Bots
 
 ### 🧠 Codewars
 
-![Codewars](https://www.codewars.com/users/ksredkin/badges/micro)
+![Codewars](https://www.codewars.com/users/ksredkin/badges/small)
 
 ## 🚀 Проекты
 - **Schedule Bot** - бот для школьного расписания с уведомлениями о заменах
