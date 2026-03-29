@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Привет,+я+Константин!)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%FFFFFF&lines=Привет,+я+Константин!)](https://git.io/typing-svg)
 # Привет, я Константин! 👋
 
 **Python Backend Developer**<br>
