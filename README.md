@@ -8,7 +8,7 @@ Building APIs & Telegram Bots
 - Изучаю современные технологии и лучшие практики (PEP8, REST, JWT).
 - Цель — создавать чистый, эффективный и хорошо документированный код.
 - Английский язык: на уровне чтения документации (A2-B2).
-[![codewars](https://www.codewars.com/users/username/badges/large)](https://www.codewars.com/users/ksredkin)
+[![codewars](https://codewars.com/users/username/badges/large)](https://codewars.com/users/ksredkin)
 
 ### 🛠️ Мой стек технологий
 
