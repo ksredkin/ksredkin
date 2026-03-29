@@ -1,4 +1,3 @@
-# ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%FFFFFF&lines=Привет,+я+Константин!)](https://git.io/typing-svg)
 # Привет, я Константин! 👋
 
 **Python Backend Developer**<br>
@@ -9,6 +8,7 @@ Building APIs & Telegram Bots
 - Изучаю современные технологии и лучшие практики (PEP8, REST, JWT).
 - Цель — создавать чистый, эффективный и хорошо документированный код.
 - Английский язык: на уровне чтения документации (A2-B2).
+[![codewars](https://www.codewars.com/users/username/badges/large)](https://www.codewars.com/users/ksredkin)
 
 ### 🛠️ Мой стек технологий
 
@@ -34,8 +34,6 @@ Building APIs & Telegram Bots
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4CAF50?style=for-the-badge)
 ![Dotenv](https://img.shields.io/badge/.ENV-ECD53F?style=for-the-badge&logo=dotenv&logoColor=black)
-
-[![Codewars](https://codewars-stats-ignacio-cuadra.vercel.app/?username=ksredkin&theme=dark)](https://github.com/ignacio-cuadra/github-readme-codewars)
 
 ### 📫 Как со мной связаться
 - **GitHub:** [ksredkin](https://github.com/ksredkin)
