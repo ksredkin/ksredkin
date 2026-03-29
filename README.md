@@ -41,7 +41,10 @@ Building APIs & Telegram Bots
 
 ### 🌐 Моя активность
 - **Telegram-канал:** [Backend Journey](https://t.me/backendjourney) - здесь посты о моем пути в backend.
-- ![Codewars](https://www.codewars.com/users/ksredkin/badges/large)
+
+### 🧠 Codewars
+
+![Codewars](https://www.codewars.com/users/ksredkin/badges/micro)
 
 ## 🚀 Проекты
 - **Schedule Bot** - бот для школьного расписания с уведомлениями о заменах
