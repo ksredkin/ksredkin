@@ -34,6 +34,12 @@ Building APIs & Telegram Bots
 ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4CAF50?style=for-the-badge)
 ![Dotenv](https://img.shields.io/badge/.ENV-ECD53F?style=for-the-badge&logo=dotenv&logoColor=black)
 
+### 🧪 Качество кода
+
+- Ruff (линтинг + форматирование)
+- Mypy (проверка типов)
+- Следую PEP8 и принципам чистого кода
+
 ### 📫 Как со мной связаться
 - **GitHub:** [ksredkin](https://github.com/ksredkin)
 - **Telegram:** [@ksredkin](https://t.me/ksredkin)
