@@ -36,11 +36,11 @@ Building APIs & Telegram Bots
 ![Dotenv](https://img.shields.io/badge/.ENV-ECD53F?style=for-the-badge&logo=dotenv&logoColor=black)
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 
-### 🧪 Качество кода
+### 🧪 Качество кода и мониторинг
 
 - Ruff (линтинг + форматирование)
 - Mypy (проверка типов)
-- Следую PEP8 и принципам чистого кода
+- Sentry SDK (отслеживание ошибок и производительности)
 
 ### 📫 Как со мной связаться
 - **GitHub:** [ksredkin](https://github.com/ksredkin)
