@@ -55,4 +55,4 @@ Building APIs & Telegram Bots
 
 ## 🚀 Проекты
 - **Schedule Bot** - бот для школьного расписания с уведомлениями о заменах
-- **Tasks API + Bot** - система управления задачами (FastAPI + Telegram Bot, Docker)
+- **Chaos Calculator** - математическая анархия, где ответ определяется большинством голосов пользователей
